@@ -10,4 +10,4 @@ function arraySign(nums: number[]): number {
     }
     
     return negatives % 2 === 0 ? 1 : -1;
-}
+}   

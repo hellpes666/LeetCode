@@ -20,11 +20,11 @@
 		<li>0976. Largest Perimeter Triangle - *COMPLETED*</li>
 		<li>1779. Find Nearest Point That Has the Same X or Y Coordinate - *COMPLETED*</li>
 		<li>1822. Sign of the Product of an Array - *COMPLETED*</li>
-		<li>1502. Can Make Arithmetic Progression From Sequence</li>
-		<li>0202. Happy Number</li>
-		<li>1790. Check if One String Swap Can Make Strings Equal</li>
-		<li>0589. N-ary Tree Preorder Traversal</li>
-		<li>0496. Next Greater Element I</li>
+		<li>1502. Can Make Arithmetic Progression From Sequence - *COMPLETED*</li>
+		<li>0202. Happy Number - *COMPLETED*</li>
+		<li>1790. Check if One String Swap Can Make Strings Equal - *COMPLETED*</li>
+		<li>0589. N-ary Tree Preorder Traversal - *COMPLETED*</li>
+		<li>0496. Next Greater Element I - Разобрать</li>
 		<li>1232. Check If It Is a Straight Line</li>
 		<li>1588. Sum of All Odd Length Subarrays</li>
 		<li>0283. Move Zeroes</li>
