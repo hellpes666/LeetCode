@@ -25,9 +25,9 @@
 		<li>1790. Check if One String Swap Can Make Strings Equal - *COMPLETED*</li>
 		<li>0589. N-ary Tree Preorder Traversal - *COMPLETED*</li>
 		<li>0496. Next Greater Element I - Разобрать</li>
-		<li>1232. Check If It Is a Straight Line</li>
-		<li>1588. Sum of All Odd Length Subarrays</li>
-		<li>0283. Move Zeroes</li>
+		<li>1232. Check If It Is a Straight Line - *COMPLETED*</li>
+		<li>1588. Sum of All Odd Length Subarrays - *COMPLETED*</li>
+		<li>0283. Move Zeroes - *COMPLETED*</li>
 		<li>1672. Richest Customer Wealth</li>
 		<li>1572. Matrix Diagonal Sum</li>
 		<li>0566. Reshape the Matrix</li>
