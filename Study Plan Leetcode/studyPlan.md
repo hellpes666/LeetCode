@@ -28,12 +28,12 @@
 		<li>1232. Check If It Is a Straight Line - *COMPLETED*</li>
 		<li>1588. Sum of All Odd Length Subarrays - *COMPLETED*</li>
 		<li>0283. Move Zeroes - *COMPLETED*</li>
-		<li>1672. Richest Customer Wealth</li>
-		<li>1572. Matrix Diagonal Sum</li>
-		<li>0566. Reshape the Matrix</li>
-		<li>1768. Merge Strings Alternately</li>
-		<li>1678. Goal Parser Interpretation</li>
-		<li>0389. Find the Difference</li>
+		<li>1672. Richest Customer Wealth - *COMPLETED*</li>
+		<li>1572. Matrix Diagonal Sum - *COMPLETED*</li>
+		<li>0566. Reshape the Matrix </li>
+		<li>1768. Merge Strings Alternately - *COMPLETED*</li>
+		<li>1678. Goal Parser Interpretation - *COMPLETED*</li>
+		<li>0389. Find the Difference - *COMPLETED*</li>
 		<li>0709. To Lower Case</li>
 		<li>1309. Decrypt String from Alphabet to Integer Mapping</li>
 		<li>0953. Verifying an Alien Dictionary</li>
