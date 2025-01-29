@@ -1,12 +1,12 @@
 # LeetCode Study Plans
 
-- [Programming Skills](#programming-skills)
-- [Data Structure](#data-structure)
-- [Algorithm](#algorithm)
-- [Graph Theory](#graph-theory)
-- [Dynamic Programming](#dynamic-programming)
-- [Binary Search](#binary-search)
-- [SQL](#sql)
+-   [Programming Skills](#programming-skills)
+-   [Data Structure](#data-structure)
+-   [Algorithm](#algorithm)
+-   [Graph Theory](#graph-theory)
+-   [Dynamic Programming](#dynamic-programming)
+-   [Binary Search](#binary-search)
+-   [SQL](#sql)
 
 ## Programming Skills
 
@@ -34,9 +34,9 @@
 		<li>1768. Merge Strings Alternately - *COMPLETED*</li>
 		<li>1678. Goal Parser Interpretation - *COMPLETED*</li>
 		<li>0389. Find the Difference - *COMPLETED*</li>
-		<li>0709. To Lower Case</li>
-		<li>1309. Decrypt String from Alphabet to Integer Mapping</li>
-		<li>0953. Verifying an Alien Dictionary</li>
+		<li>0709. To Lower Case - *COMPLETED*</li>
+		<li>1309. Decrypt String from Alphabet to Integer Mapping - *COMPLETED*</li>
+		<li>0953. Verifying an Alien Dictionary - *COMPLETED*</li>
 		<li>1290. Convert Binary Number in a Linked List to Integer</li>
 		<li>0876. Middle of the Linked List</li>
 		<li>0104. Maximum Depth of Binary Tree</li>
