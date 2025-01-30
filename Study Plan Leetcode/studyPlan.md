@@ -37,9 +37,9 @@
 		<li>0709. To Lower Case - *COMPLETED*</li>
 		<li>1309. Decrypt String from Alphabet to Integer Mapping - *COMPLETED*</li>
 		<li>0953. Verifying an Alien Dictionary - *COMPLETED*</li>
-		<li>1290. Convert Binary Number in a Linked List to Integer</li>
-		<li>0876. Middle of the Linked List</li>
-		<li>0104. Maximum Depth of Binary Tree</li>
+		<li>1290. Convert Binary Number in a Linked List to Integer - *COMPLETED*</li>
+		<li>0876. Middle of the Linked List - *COMPLETED*</li>
+		<li>0104. Maximum Depth of Binary Tree - *COMPLETED*</li>
 		<li>0404. Sum of Left Leaves</li>
 		<li>1356. Sort Integers by The Number of 1 Bits</li>
 		<li>0232. Implement Queue using Stacks</li>
