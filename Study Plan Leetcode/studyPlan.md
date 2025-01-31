@@ -40,13 +40,13 @@
 		<li>1290. Convert Binary Number in a Linked List to Integer - *COMPLETED*</li>
 		<li>0876. Middle of the Linked List - *COMPLETED*</li>
 		<li>0104. Maximum Depth of Binary Tree - *COMPLETED*</li>
-		<li>0404. Sum of Left Leaves</li>
-		<li>1356. Sort Integers by The Number of 1 Bits</li>
-		<li>0232. Implement Queue using Stacks</li>
-		<li>0242. Valid Anagram</li>
-		<li>0217. Contains Duplicate</li>
-		<li>1603. Design Parking System</li>
-		<li>0303. Range Sum Query - Immutable</li>
+		<li>0404. Sum of Left Leaves - *COMPLETED*</li>
+		<li>1356. Sort Integers by The Number of 1 Bits - *COMPLETED*</li>
+		<li>0232. Implement Queue using Stacks - *COMPLETED*</li>
+		<li>0242. Valid Anagram - *SKIPED*</li>
+		<li>0217. Contains Duplicate - *SKIPED*</li>
+		<li>1603. Design Parking System - *COMPLETED*</li>
+		<li>0303. Range Sum Query - Immutable - *COMPLETED*</li>
 	</ul>
 </details>
 <details>
